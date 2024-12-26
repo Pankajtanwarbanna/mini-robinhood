@@ -3,6 +3,7 @@
 A Python project that demonstrates how a [PID controller](https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller) can be used to dynamically adjust weights for nodes in a load balancer. This approach ensures traffic is evenly distributed across nodes by keeping their utilization close to the average utilization. 
 
 > The blog explaining it in more detail is publish here - 
+https://www.pankajtanwar.in/blog/building-a-tiny-load-balancing-service-using-pid-controllers 
 
 ## Features
 
